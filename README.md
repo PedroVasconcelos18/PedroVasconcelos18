@@ -2,7 +2,7 @@
 <h3 align="center">pt - Desenvolvedor movido a desafios, apaixonado por facilitar vidas através da tecnologia</h3>
 <h3 align="center">eng - Challenge-driven developer, passionate about simplifying lives through technology.</h3>
 
-- 🌱 I’m currently learning about **microservices**
+- 🌱 I’m currently learning about **reactive programming on backend**
 
 - 📫 How to reach me **pedrovasconcelos.dev@outlook.com**
 
