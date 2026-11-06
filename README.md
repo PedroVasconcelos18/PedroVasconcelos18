@@ -4,7 +4,7 @@
 
 I build backend systems in Java and Spring Boot: REST APIs, authentication, payments, background jobs and the cloud infrastructure that runs them. I also ship my own products end to end, from the database schema to production.
 
-[![Email](https://img.shields.io/badge/Email-pedrovasconcelos.dev@outlook.com-informational?style=flat&color=ED8B00)](mailto:pedrovasconcelos.dev@outlook.com)
+[![Email](https://img.shields.io/badge/Email-pedrovsdev@gmail.com-informational?style=flat&color=ED8B00)](mailto:pedrovsdev@gmail.com)
 
 ---
 
@@ -32,6 +32,7 @@ More Java: [VirtualThreads](https://github.com/PedroVasconcelos18/VirtualThreads
 
 ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=ED8B00)
 ![Spring Boot](https://img.shields.io/badge/Framework-Spring_Boot-informational?style=flat&logo=springboot&logoColor=white&color=ED8B00)
+![Spring AI](https://img.shields.io/badge/Framework-Spring_AI-informational?style=flat&logo=spring&logoColor=white&color=ED8B00)
 ![Spring Security](https://img.shields.io/badge/Framework-Spring_Security-informational?style=flat&logo=springsecurity&logoColor=white&color=ED8B00)
 ![Hibernate](https://img.shields.io/badge/ORM-JPA_/_Hibernate-informational?style=flat&logo=hibernate&logoColor=white&color=ED8B00)
 ![Maven](https://img.shields.io/badge/Build-Maven-informational?style=flat&logo=apachemaven&logoColor=white&color=ED8B00)
@@ -40,16 +41,14 @@ More Java: [VirtualThreads](https://github.com/PedroVasconcelos18/VirtualThreads
 ![Flyway](https://img.shields.io/badge/DB-Flyway-informational?style=flat&logo=flyway&logoColor=white&color=ED8B00)
 ![PostgreSQL](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=ED8B00)
 ![Redis](https://img.shields.io/badge/DB-Redis-informational?style=flat&logo=redis&logoColor=white&color=ED8B00)
-![Kafka](https://img.shields.io/badge/Messaging-Kafka-informational?style=flat&logo=apachekafka&logoColor=white&color=ED8B00)
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&color=ED8B00)
 ![EC2](https://img.shields.io/badge/AWS-EC2-informational?style=flat&color=ED8B00)
 ![S3](https://img.shields.io/badge/AWS-S3-informational?style=flat&color=ED8B00)
 ![Lambda](https://img.shields.io/badge/AWS-Lambda-informational?style=flat&color=ED8B00)
-![RDS](https://img.shields.io/badge/AWS-RDS-informational?style=flat&color=ED8B00)
 ![SQS](https://img.shields.io/badge/AWS-SQS-informational?style=flat&color=ED8B00)
 ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=ED8B00)
 ![GitHub Actions](https://img.shields.io/badge/CI-GitHub_Actions-informational?style=flat&logo=githubactions&logoColor=white&color=ED8B00)
-![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=ED8B00)
+![macOS](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white&color=ED8B00)
 
 Also: ![TypeScript](https://img.shields.io/badge/-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=555) ![NestJS](https://img.shields.io/badge/-NestJS-informational?style=flat&logo=nestjs&logoColor=white&color=555) ![React](https://img.shields.io/badge/-React-informational?style=flat&logo=react&logoColor=white&color=555) ![Python](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=555) ![Django](https://img.shields.io/badge/-Django-informational?style=flat&logo=django&logoColor=white&color=555)
 
